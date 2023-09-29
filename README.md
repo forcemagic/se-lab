@@ -1,7 +1,5 @@
 # SE Spaceship
 
-I am writing something cool in the readme.
-
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
 
 The application is simplified and deliberately contains bugs.
