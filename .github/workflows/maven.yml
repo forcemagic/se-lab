@@ -6,6 +6,8 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 
+permissions:
+  contents: read
 name: Java CI with Maven
 
 on:
